@@ -1,7 +1,7 @@
 # twitter_ajir_bot
 
 
-git clone https://github.com/0xDARTH/admin_web
+git clone https://github.com/0xDARTH/twitter_ajir_bot.git
 
 cd twitter_ajir_bot
 
